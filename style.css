@@ -1,0 +1,18 @@
+.container {
+  padding-inline: 15px;
+}
+.card_weather {
+  padding: 15px;
+  background-color: purple;
+  border-radius: 15px;
+  background-repeat: no-repeat;
+  background-position-x: 90%;
+  background-position-y: 15px;
+  background-size: 80px;
+  box-shadow: 10px 10px 10px #0000004a;
+  color: white;
+}
+.card_weather > div {
+  display: flex;
+  justify-content: space-between;
+}
